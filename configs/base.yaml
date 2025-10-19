@@ -1,0 +1,5 @@
+layers: 5
+frequency_shift: 0.25
+phase_shift_step: 0.52
+noise_level: 0.2
+output_dir: outputs/figures
